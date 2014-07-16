@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Trocchi-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="Trocchi-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="Trocchi-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="Trocchi-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Trocchi-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Trocchi-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="Trocchi-Regular.ttf._c_m_a_p.ttx"/>
+  <fpgm src="Trocchi-Regular.ttf._f_p_g_m.ttx"/>
+  <prep src="Trocchi-Regular.ttf._p_r_e_p.ttx"/>
+  <cvt src="Trocchi-Regular.ttf._c_v_t.ttx"/>
+  <loca src="Trocchi-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="Trocchi-Regular.ttf._g_l_y_f.ttx"/>
+  <kern src="Trocchi-Regular.ttf._k_e_r_n.ttx"/>
+  <name src="Trocchi-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="Trocchi-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="Trocchi-Regular.ttf._g_a_s_p.ttx"/>
+  <FFTM src="Trocchi-Regular.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="Trocchi-Regular.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="Trocchi-Regular.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="Trocchi-Regular.ttf.G_S_U_B_.ttx"/>
+</ttFont>
