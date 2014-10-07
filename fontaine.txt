@@ -1,0 +1,39 @@
+Fonts
+  Font:
+    Common name: Trocchi
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: vernon adams
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.0; ttfautohint (v0.8) -l 6 -r 50 -G 100
+    Designer: vernon adams
+    Designer url: newtypography.co.uk
+    Glyph count: 404
+    Character count: 388
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 19
